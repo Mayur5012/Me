@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.77f0d172.css",
+    "main.js": "/static/js/main.800b4ead.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/me3.png": "/static/media/me3.e2cdadd14e4be5c93f86.png",
+    "static/media/Mayuresh Gawali Resume.pdf": "/static/media/Mayuresh Gawali Resume.3f9e99c40e3fc6c330d8.pdf",
+    "static/media/designer.png": "/static/media/designer.aeb02902c69789cea7e2.png",
+    "static/media/programmer.png": "/static/media/programmer.3c8921fbba58474d2953.png",
+    "static/media/developer.png": "/static/media/developer.c519b7d9871850d7e22d.png",
+    "index.html": "/index.html",
+    "main.77f0d172.css.map": "/static/css/main.77f0d172.css.map",
+    "main.800b4ead.js.map": "/static/js/main.800b4ead.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77f0d172.css",
+    "static/js/main.800b4ead.js"
+  ]
+}
