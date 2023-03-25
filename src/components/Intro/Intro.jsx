@@ -26,7 +26,7 @@ const size= {
           <span>Mayuresh Gawali</span>
           <span className="typical">
             {" "}
-            <h1>
+            <h2>
               {" "}
               <Typical 
               loop ={Infinity}
@@ -43,7 +43,7 @@ const size= {
                 500,
               ]}
               />
-            </h1>
+            </h2>
           </span>
           <span >
                 MERN and ML Intern at Tecnatox | Ex-Project Intern at Basil | Designer at GDSC GTBIT | Green India Hackathon 2023 | Accenture Innovation Challenge 2022
@@ -54,11 +54,11 @@ const size= {
         </Link>
         {/* social icons */}
         <div className="i-icons">
-        <SocialIcon url="https://www.linkedin.com/in/mayureshgawali/" target={"blank"} bgColor="#1f8dfc" style={{ height: 100, width: 100}} />
-        <SocialIcon url="https://github.com/Mayur5012" bgColor="#1f8dfc" target={"blank"}  style={{ height: 100, width: 100 }} />
-        <SocialIcon url="https://www.instagram.com/array_mayur/" bgColor="#1f8dfc" target={"blank"}  style={{ height: 100, width: 100 }} />
-        <SocialIcon url="https://wa.me/8505890182"  target={"blank"}  bgColor="#1f8dfc" style={{ height: 100, width: 100 }} />
-        <SocialIcon url="https://mail.google.com/mail/u/0/?fs=1&to=mayureshgawali9@gmail.com&tf=cm"  target={"blank"}  bgColor="#1f8dfc" style={{ height: 100, width: 100 }} />
+        <SocialIcon url="https://www.linkedin.com/in/mayureshgawali/" target={"blank"} bgColor="#43ddfc" style={{ height: 100, width: 100}} />
+        <SocialIcon url="https://github.com/Mayur5012" bgColor="#43ddfc" target={"blank"}  style={{ height: 100, width: 100 }} />
+        <SocialIcon url="https://www.instagram.com/array_mayur/" bgColor="#43ddfc" target={"blank"}  style={{ height: 100, width: 100 }} />
+        <SocialIcon url="https://wa.me/8505890182"  target={"blank"}  bgColor="#43ddfc" style={{ height: 100, width: 100 }} />
+        <SocialIcon url="https://mail.google.com/mail/u/0/?fs=1&to=mayureshgawali9@gmail.com&tf=cm"  target={"blank"}  bgColor="#43ddfc" style={{ height: 100, width: 100 }} />
           
         </div>
       </div>

@@ -1,21 +1,26 @@
 .button {
-    background: linear-gradient(180deg, #313cff 26.71%, #2fb4fb 99.36%);
-    box-shadow: 6px 8px 7px -3px  rgba(150, 205, 249, 0.42);
-    border-radius: 34px;
-    border: none;
-    color: white;
-    font-size: 16px;
-    padding: 11px 26px;
+  background-color: #43ddff;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 2rem 0;
+  width: 127px;
+  border: none;
+  color: #fff;
   }
   
   .button:hover {
-    background: white;
+    background: hsl(191, 99%, 49%);
     cursor: pointer;
-    border: 1px solid var(--blue);
-    color: var(--blue);
+    border: 1px solid hsl(191, 99%, 49%);
+    color: white;
   }
 
 
+*{
+  top: 0;
+  left: 0;
+  /* overflow-x: hidden; */
+}
 
 
 

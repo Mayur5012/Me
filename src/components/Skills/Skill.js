@@ -10,7 +10,7 @@ const Skill = () => {
   return (
     <>
     <div className='skillContainer'>
-        <span  className='heading'>What I Do!</span>
+        <span className='heading'>What I Do!</span>
         <span className="typical">
             {" "}
             <h4 style={{textAlign:"center", color:"#43ddff"}}>
