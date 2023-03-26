@@ -1,8 +1,7 @@
 .contact-form{
     padding: 0 7rem 0 7rem;
     display: flex;
-    align-items: flex-start;
-    /* height: 80vh; */
+    /* align-items: flex-start; */
     margin-top: 3rem;
 }
 
@@ -46,10 +45,11 @@ textarea{
         padding: 0;
         flex-direction: column;
         gap: 5rem;
+        width: 130%;
         height: 40rem;
     }
     .c-right .user{
-        width: 16rem;
+        width: 22rem;
     }
     .c-right{
         margin-top: -19rem;
@@ -100,7 +100,10 @@ textarea{
       padding: 0;
       gap: 4rem;
     }
-    
+
+    .w-left{
+      justify-content: center;
+    }
   .awesome > :nth-child(1) {
     font-size: 2.2rem;
   }

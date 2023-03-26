@@ -51,4 +51,11 @@
   .n-list {
     display: none;
   }
+  .n-left{
+    justify-content: center;
+  }
+  .n-name{
+    margin-left: 5rem;
+    font-size: 1.8rem;
+  }
 }

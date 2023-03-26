@@ -41,7 +41,7 @@ function Experience() {
 		<div className="flip-card">
 			<div className="flip-card-inner">
 				<div className="flip-card-front">
-					<img style={{marginTop:"40%", width:"212px"}} src={tecnatox}  alt="Card 1" />
+					<img id="companyImg" style={{marginTop:"40%", width:"212px"}} src={tecnatox}  alt="Card 1" />
 				</div>
 				<div className="flip-card-back">
 					<div className="card-heading">TecnaTox</div>
@@ -58,14 +58,14 @@ function Experience() {
 		<div className="flip-card">
 			<div className="flip-card-inner">
 				<div className="flip-card-front">
-					<img style={{marginTop:"24%", width:"168px"}} src={basil}  alt="Card 2" />
+					<img id="companyImg" style={{marginTop:"24%", width:"168px"}} src={basil}  alt="Card 2" />
 				</div>
 				<div className="flip-card-back">
 					<div className="card-heading">Basil Infotech</div>
 					<div className="card-subheading">Role : Backend Intern</div>
 					<div className="card-subheading">Duration : 3 Months</div>
 					<div className="card-description">
-						<p>- Developed a payment Gateway website with a team</p>
+						<p>- Developed a payment gateway website with the team</p>
 						<p>- Created backend for the website</p>
 						<p>- Created user friendly interfaces</p>
 					</div>
@@ -75,7 +75,7 @@ function Experience() {
 		<div className="flip-card">
 			<div className="flip-card-inner">
 				<div className="flip-card-front">
-					<img style={{marginTop:"40%", width:"160px"}} src={gdsc} alt="Card 1" />
+					<img id="companyImg" style={{marginTop:"40%", width:"160px"}} src={gdsc} alt="Card 1" />
 				</div>
 				<div className="flip-card-back">
 					<div className="card-heading">GDSC</div>
@@ -91,7 +91,7 @@ function Experience() {
 		<div className="flip-card">
 			<div className="flip-card-inner">
 				<div className="flip-card-front">
-					<img style={{marginTop:"36%", width:"206px"}} src={inters} alt="Card 1" />
+					<img id="companyImg" style={{marginTop:"36%", width:"206px"}} src={inters} alt="Card 1" />
 				</div>
 				<div className="flip-card-back">
 					<div className="card-heading">Internship Studio</div>

@@ -19,13 +19,24 @@
 }
 
 @media screen and (max-width: 480px) {
-  .company {
+  /* .company {
     flex-direction: column;
-  }
+  } */
   .companyCards {
     width: 80%;
     margin: 1rem;
   }
+  .mainExperience{
+    margin: 5rem 0;
+    width: 130%;
+  }
+  .flip-card{
+    width: 380px !important;
+  }
+  #companyImg{
+    margin-top: 34%;
+  }
+  
 }
 
 .flip-card {

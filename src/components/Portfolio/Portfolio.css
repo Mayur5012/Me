@@ -7,7 +7,7 @@
   height: auto;
 
 }
-.heading {
+.headingPort {
   margin: 2rem 0;
   text-align: center;
   font-size: 3rem;
@@ -35,11 +35,17 @@
   /* For Mobile Portrait View */
   @media screen and (max-device-width: 480px)
   and (orientation: portrait) {
+    .headingPort{
+      margin-top: 2rem;
+      margin-bottom: 2rem;
+      margin-right: -3rem;
+    }
     .portfolio-slider {
       margin-top: 4rem;
-      width: 108%;
+      width: 100%;
     }
     .portfolio{
+      width: 118%;
       margin-bottom: -8rem;
     }
   .portfolio img{

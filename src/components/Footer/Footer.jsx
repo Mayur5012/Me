@@ -19,7 +19,7 @@ const Footer = () => {
         <SocialIcon url="https://mail.google.com/mail/u/0/?fs=1&to=mayureshgawali9@gmail.com&tf=cm"  target={"blank"}  bgColor="white" style={{ height: 100, width: 100 }} />
         </div>
         </div>
-        <p>© 2022 Mayuresh Gawali | Made with ♡! </p>
+        <p>© 2023 Mayuresh Gawali | Made with ♡ </p>
       </div>
       
     </div>
