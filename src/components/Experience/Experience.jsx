@@ -1,7 +1,7 @@
 import React from 'react'
 import Typical from "react-typical"
 import './Experience.css'
-import basil from '../../img/basil.png'
+import basil from '../../img/basil1.png'
 import tecnatox from '../../img/tecnatox.png'
 import gdsc from '../../img/gdsc.png'
 import inters from '../../img/inters.png'

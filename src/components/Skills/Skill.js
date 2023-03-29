@@ -20,11 +20,11 @@ const Skill = () => {
               steps={[
                 " ",
                 500,
-                "Designing and",
+                "Designing and developing web applications!",
                 1000,
-                "Designing and creating web applications",
+                "Solving some real world problems!",
                 1000,
-                "To solve real world problems!",
+                "Practicing data structures and algorithms everyday!",
                 1000,
               ]}
               />
