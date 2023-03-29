@@ -55,3 +55,8 @@
     margin-top: 4rem;
     }
 }
+@media screen and (min-width: 540px) and (max-width:800px){
+    .skillContainer{
+      width: 160%;
+    }
+    }

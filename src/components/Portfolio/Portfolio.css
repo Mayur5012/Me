@@ -56,3 +56,9 @@
   }
   }
    
+
+  @media screen and (min-width: 540px) and (max-width:800px){
+    .portfolio{
+      width: 160%;
+    }
+    }

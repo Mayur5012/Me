@@ -4,6 +4,13 @@
   /* margin: -0.5rem -3.5rem; */
   position: relative;
   margin-top: 2rem;
+  background: #43ddff;
+  justify-content: center;
+  height: 6rem;
+}
+.footer>p{
+  color: #fff;
+  margin-top: 2rem;
 }
 i-icons {
   margin-top: 0rem;
@@ -35,6 +42,8 @@ i-icons {
     width: 130%;
   }
 }
-
-
-
+@media screen and (min-width: 540px) and (max-width:800px){
+  .footer{
+    width: 160%;
+  }
+  }

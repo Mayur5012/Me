@@ -116,6 +116,11 @@ textarea{
   
   }
   
+  @media screen and (min-width: 540px) and (max-width:800px){
+  .contact-form{
+    width: 140%;
+  }
+  }
   
   
   
