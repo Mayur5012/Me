@@ -42,8 +42,8 @@ i-icons {
     width: 130%;
   }
 }
-@media screen and (min-width: 540px) and (max-width:800px){
+@media screen and (min-width: 540px) and (max-width:900px){
   .footer{
-    width: 160%;
+    width: 166%;
   }
   }

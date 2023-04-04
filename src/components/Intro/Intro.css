@@ -71,9 +71,9 @@
   }
 
 }
-@media screen and (min-width: 540px) and (max-width:800px){
+@media screen and (min-width: 540px) and (max-width:900px){
   .Intro{
-    width: 160%;
+    width: 155%;
   }
   }
 

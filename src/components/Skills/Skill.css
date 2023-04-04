@@ -44,6 +44,7 @@
 
 @media screen and (max-width: 480px){
     .skill{
+        margin-left: 2rem;
         flex-direction: column;
     }
     .skillCard{
@@ -55,8 +56,9 @@
     margin-top: 4rem;
     }
 }
-@media screen and (min-width: 540px) and (max-width:800px){
+@media screen and (min-width: 540px) and (max-width:900px){
     .skillContainer{
-      width: 160%;
+      width: 166%;
+      /* margin-left: 3rem; */
     }
     }

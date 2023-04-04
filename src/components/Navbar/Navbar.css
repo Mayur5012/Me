@@ -59,9 +59,9 @@
     font-size: 1.8rem;
   }
 }
-@media screen and (min-width: 540px) and (max-width:800px){
+@media screen and (min-width: 540px) and (max-width:900px){
   .n-wrapper{
-    width: 160%;
+    width: 166%;
   }
   .n-list {
     display: none;
