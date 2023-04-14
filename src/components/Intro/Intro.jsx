@@ -46,7 +46,7 @@ const size= {
             </h2>
           </span>
           <span >
-                MERN and ML Intern at Tecnatox | Ex-Project Intern at Basil | Designer at GDSC GTBIT | Green India Hackathon 2023 | Accenture Innovation Challenge 2022
+                Ex MERN and ML Intern at Tecnatox | Ex-Project Intern at Basil | Ex Designer at GDSC GTBIT | Green India Hackathon 2023 | Accenture Innovation Challenge 2022
           </span>
         </div>
         <Link to="contact" smooth={true} spy={true}>

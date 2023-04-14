@@ -46,7 +46,7 @@ function Experience() {
 				<div className="flip-card-back">
 					<div className="card-heading">TecnaTox</div>
 					<div className="card-subheading">Role : MERN and ML Intern</div>
-					<div className="card-subheading">Duration : 3 Months</div>
+					<div className="card-subheading">Duration : 4 Months</div>
 					<div className="card-description">
 						<p>- Developing tools for scientists</p>
 						<p>- Creating user friendly interfaces</p>
@@ -80,7 +80,7 @@ function Experience() {
 				<div className="flip-card-back">
 					<div className="card-heading">GDSC</div>
 					<div className="card-subheading">Role : Designer</div>
-					<div className="card-subheading">Duration : 8+ Months</div>
+					<div className="card-subheading">Duration : 9 Months</div>
 					<div className="card-description">
 						<p>- Creating designs for development team</p>
 						<p>- Designing user friendly interfaces</p>
