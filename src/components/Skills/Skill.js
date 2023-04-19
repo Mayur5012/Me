@@ -37,7 +37,7 @@ const Skill = () => {
         <div className='skillCard'>
             <img src={designer} alt=""/>
             <h4 id='skillHeading'>Design</h4>
-            <span className='skillList'>Figma, Canva, Adobe,Illustrator, VistaCreate</span>
+            <span className='skillList'>Figma, Canva, Adobe Illustrator, VistaCreate</span>
         </div>
         <div className='skillCard'>
             <img src={developer} alt=""/>
