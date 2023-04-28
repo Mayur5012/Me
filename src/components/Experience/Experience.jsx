@@ -48,9 +48,9 @@ function Experience() {
 					<div className="card-subheading">Role : MERN and ML Intern</div>
 					<div className="card-subheading">Duration : 4 Months</div>
 					<div className="card-description">
-						<p>- Developing tools for scientists</p>
+						<p>- Developing NLP toolkit for scientists</p>
 						<p>- Creating user friendly interfaces</p>
-						<p>- Integrating backend in frontend</p>
+						<p>- Integrating backend with frontend</p>
 					</div>
 				</div>
 			</div>
