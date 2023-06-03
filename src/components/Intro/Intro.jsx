@@ -2,8 +2,8 @@ import React, { useContext } from "react";
 import "./Intro.css";
 import Typical from 'react-typical';
 import { SocialIcon } from 'react-social-icons';
-import me2 from "../../img/me3.png";
 import { Link } from "react-scroll";
+import me2 from "../../img/me3.png";
 
 
 const Intro = () => {

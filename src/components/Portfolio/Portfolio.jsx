@@ -7,6 +7,7 @@ import Swasthya from "../../img/swasthya.png";
 import Bussy from "../../img/bussy.png";
 import Notty from "../../img/notty.png";
 import Matka from "../../img/matka.png";
+import Ipl from "../../img/ipl.png";
 // import { themeContext } from "../../Context";
 const Portfolio = () => {
   // const theme = useContext(themeContext);
@@ -43,7 +44,7 @@ const Portfolio = () => {
          <a href="https://mayur5012.github.io/crypco/" rel="noreferrer" target="_blank"><img src={Crypco} alt="" /></a> 
         </SwiperSlide>
         <SwiperSlide>
-          <img src={Swasthya} alt="" />
+         <a href="#/" rel="noreferrer" target="_blank"><img src={Ipl} alt="" /></a> 
         </SwiperSlide>
         <SwiperSlide>
           <a href="https://www.figma.com/file/bMbrPgNgPKnFrxFp1lNa1S/Bussy?node-id=4%3A413" rel="noreferrer" target="_blank"><img src={Bussy} alt="" /></a>
@@ -53,6 +54,9 @@ const Portfolio = () => {
         </SwiperSlide>
         <SwiperSlide>
           <img src={Matka} alt="" />
+        </SwiperSlide>
+        <SwiperSlide>
+          <img src={Swasthya} alt="" />
         </SwiperSlide>
       </Swiper>
     </div>
