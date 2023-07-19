@@ -45,12 +45,13 @@ function Experience() {
 				</div>
 				<div className="flip-card-back">
 					<div className="card-heading">TecnaTox</div>
-					<div className="card-subheading">Role : MERN and ML Intern</div>
-					<div className="card-subheading">Duration : 4 Months</div>
+					<div className="card-subheading">Role : MERN and FReMP Intern</div>
+					<div className="card-subheading">Duration : 6 Months</div>
 					<div className="card-description">
-						<p>- Developing NLP toolkit for scientists</p>
-						<p>- Creating user friendly interfaces</p>
-						<p>- Integrating backend with frontend</p>
+						<p>- Created NLP toolkit for evidence gathering of mechanistic
+pathway of toxicity</p>
+						<p>- Developed a frontend for 3 tools with a smooth UI.</p>
+						<p>- Integrated and developed backend for the project.</p>
 					</div>
 				</div>
 			</div>

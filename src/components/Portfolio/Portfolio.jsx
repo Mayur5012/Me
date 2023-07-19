@@ -8,6 +8,7 @@ import Bussy from "../../img/bussy.png";
 import Notty from "../../img/notty.png";
 import Matka from "../../img/matka.png";
 import Ipl from "../../img/ipl.png";
+import pd from "../../img/pd.png";
 // import { themeContext } from "../../Context";
 const Portfolio = () => {
   // const theme = useContext(themeContext);
@@ -48,6 +49,9 @@ const Portfolio = () => {
         </SwiperSlide>
         <SwiperSlide>
           <a href="https://www.figma.com/file/bMbrPgNgPKnFrxFp1lNa1S/Bussy?node-id=4%3A413" rel="noreferrer" target="_blank"><img src={Bussy} alt="" /></a>
+        </SwiperSlide>
+        <SwiperSlide>
+          <a href="#" rel="noreferrer" target="_blank"><img src={pd} alt="" /></a>
         </SwiperSlide>
         <SwiperSlide>
           <a href="https://mayur5012.github.io/notty/" rel="noreferrer" target="_blank"><img src={Notty} alt="" /></a>
