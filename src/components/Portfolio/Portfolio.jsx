@@ -51,7 +51,7 @@ const Portfolio = () => {
           <a href="https://www.figma.com/file/bMbrPgNgPKnFrxFp1lNa1S/Bussy?node-id=4%3A413" rel="noreferrer" target="_blank"><img src={Bussy} alt="" /></a>
         </SwiperSlide>
         <SwiperSlide>
-          <a href="#" rel="noreferrer" target="_blank"><img src={pd} alt="" /></a>
+          <a href="https://mayur5012.github.io/Project-Degree/" rel="noreferrer" target="_blank"><img src={pd} alt="" /></a>
         </SwiperSlide>
         <SwiperSlide>
           <a href="https://mayur5012.github.io/notty/" rel="noreferrer" target="_blank"><img src={Notty} alt="" /></a>
