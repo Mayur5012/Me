@@ -25,8 +25,9 @@ const Intro = () => {
   const transition = { duration: 2, type: "spring" };
 //img size
 const size= {
-  width: "500px",
-  height: "500px",
+  marginLeft:"37px",
+  width: "440px",
+  height: "440px"
 };
 
 
