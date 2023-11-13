@@ -4,7 +4,21 @@ import Typical from 'react-typical';
 import { SocialIcon } from 'react-social-icons';
 import { Link } from "react-scroll";
 import me2 from "../../img/me3.png";
+import  { Tilt } from 'react-tilt';
 
+
+const defOptions={
+  reverse: false,
+  max:35,
+  perspective:1000,
+  scale:1.1,
+  speed:1000,
+  transition:true,
+  axis:null,
+  reset:true,
+  easing: "cubic-bezier(.03,.98,.52,.99)"
+
+}
 
 const Intro = () => {
   // Transition
@@ -17,7 +31,9 @@ const size= {
 
 
   return (
+    
     <div className="Intro" id="Intro">
+      
       {/* left name side */}
       <div className="i-left">
         <div className="i-name">
@@ -37,9 +53,9 @@ const size= {
                 500,
                 "Web Developer | DSA Enthusiasts",
                 500,
-                "Web Developer | DSA Enthusiasts | ML/AI ",
+                "Web Developer | DSA Enthusiasts | Data Science ",
                 500,
-                "Web Developer | DSA Enthusiasts | ML/AI | UI/UX",
+                "Web Developer | DSA Enthusiasts | Data Science | UI/UX",
                 500,
               ]}
               />
@@ -67,7 +83,9 @@ const size= {
       
       {/* right image side */}
       <div className="i-right">
+      <Tilt options={defOptions} >
         <img style={size} src={me2} alt="" />
+      </Tilt>
       </div>
     </div>
   );
