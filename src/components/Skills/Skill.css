@@ -18,6 +18,13 @@
     color: #fff;
 
 }
+.downloadPDF{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin:12px;
+}
 .skill{
     display: flex;
     flex-direction: row;
