@@ -16,7 +16,7 @@ const Portfolio = () => {
   return (
     <div className="portfolio" id="portfolio">
       {/* heading */}
-      <span className="headingPort">Some Recent Projects</span>
+      <span className="headingPort">Some Personal Projects</span>
 
       {/* slider */}
       <Swiper

@@ -55,14 +55,14 @@ const Skill = () => {
             <img src={developer} alt="" />
             <h4 id="skillHeading">Developer</h4>
             <span className="skillList">
-              JavaScript, ReactJs, NodeJs, ExpressJs, ML/AI, Html, CSS3,
-              Bootstrap, PHP, AWS, MongoDb, MySQL{" "}
+              JavaScript, ReactJs, NodeJs, ExpressJs,MongoDb, ML/DL, HTML, CSS3,
+              Bootstrap, Tailwind CSS, AJAX, PHP, AWS, SQL, Github, MySQL{" "}
             </span>
           </div>
           <div className="skillCard">
             <img src={programmer} alt="" />
             <h4 id="skillHeading">Programming</h4>
-            <span className="skillList">C++, Java, Python</span>
+            <span className="skillList">C++, Python</span>
           </div>
         </div>
       </div>

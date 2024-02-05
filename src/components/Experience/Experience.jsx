@@ -48,10 +48,10 @@ function Experience() {
 					<div className="card-subheading">Role : MERN and FReMP Intern</div>
 					<div className="card-subheading">Duration : 6 Months</div>
 					<div className="card-description">
-						<p>- Created NLP toolkit for evidence gathering of mechanistic
+						<p style={{textAlign:"justify"}}>- Created NLP toolkit for evidence gathering of mechanistic
 pathway of toxicity</p>
-						<p>- Developed a frontend for 3 tools with a smooth UI.</p>
-						<p>- Integrated and developed backend for the project.</p>
+						<p style={{textAlign:"justify"}}>- Developed a frontend for 3 tools with a smooth UI.</p>
+						<p style={{textAlign:"justify"}}>- Integrated and developed backend for the project.</p>
 					</div>
 				</div>
 			</div>
@@ -66,9 +66,9 @@ pathway of toxicity</p>
 					<div className="card-subheading">Role : Backend Intern</div>
 					<div className="card-subheading">Duration : 3 Months</div>
 					<div className="card-description">
-						<p>- Developed a payment gateway website with the team</p>
-						<p>- Created backend for the website</p>
-						<p>- Created user friendly interfaces</p>
+						<p style={{textAlign:"justify"}}>- Built a payment gateway webapp and developed backend services forthe project.</p>
+						<p style={{textAlign:"justify"}}>- Collaborated with the frontend and design team as a backend lead for seamless
+user experience in online payments.</p>
 					</div>
 				</div>
 			</div>
@@ -83,8 +83,8 @@ pathway of toxicity</p>
 					<div className="card-subheading">Role : Designer</div>
 					<div className="card-subheading">Duration : 9 Months</div>
 					<div className="card-description">
-						<p>- Creating designs for development team</p>
-						<p>- Designing user friendly interfaces</p>
+						<p style={{textAlign:"justify"}}>- Creating designs for development team</p>
+						<p style={{textAlign:"justify"}}>- Designing user friendly interfaces</p>
 					</div>
 				</div>
 			</div>
@@ -101,7 +101,7 @@ pathway of toxicity</p>
 					<div className="card-description">
 						<p>- Youtube
 adview Prediction</p>
-						<p>- Used Decision Tree Regressor and Random Forest Regressors to predict</p>
+						<p style={{textAlign:"justify"}}>- Used Decision Tree Regressor and Random Forest Regressors to predict</p>
 
 					</div>
 				</div>

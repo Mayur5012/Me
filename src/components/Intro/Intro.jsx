@@ -63,7 +63,7 @@ const size= {
             </h2>
           </span>
           <span >
-                Ex MERN and ML Intern at Tecnatox | Ex-Project Intern at Basil | Ex Designer at GDSC GTBIT | Green India Hackathon 2023 | Accenture Innovation Challenge 2022
+                Founder of <a href="https://dripinfinite.in/">DripInfinite.in</a> | Ex MERN and ML Intern at Tecnatox | Ex-Project Intern at Basil | Ex Designer at GDSC GTBIT | Green India Hackathon 2023 | Accenture Innovation Challenge 2022
           </span>
         </div>
         <Link to="contact" smooth={true} spy={true}>
