@@ -84,9 +84,9 @@ const size= {
       
       {/* right image side */}
       <div className="i-right">
-      <Tilt options={defOptions} >
+      {/* <Tilt options={defOptions} > */}
         <img style={size} src={me2} alt="" />
-      </Tilt>
+      {/* </Tilt> */}
       </div>
     </div>
   );
