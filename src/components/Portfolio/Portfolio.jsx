@@ -8,11 +8,11 @@ import Bussy from "../../img/bussy.png";
 import Notty from "../../img/notty.png";
 import Matka from "../../img/matka.png";
 import Ipl from "../../img/ipl.png";
+import pred from "../../img/pred.png"
 import pd from "../../img/pd.png";
-// import { themeContext } from "../../Context";
+import swasser from "../../img/Swasser.png"
+import drip from "../../img/drip.png"
 const Portfolio = () => {
-  // const theme = useContext(themeContext);
-  // const darkMode = theme.state.darkMode;
   return (
     <div className="portfolio" id="portfolio">
       {/* heading */}
@@ -42,16 +42,26 @@ const Portfolio = () => {
         }}
       >
         <SwiperSlide>
-         <a href="https://mayur5012.github.io/crypco/" rel="noreferrer" target="_blank"><img src={Crypco} alt="" /></a> 
+         <a href="https://dripinfinite.vercel.app/" rel="noreferrer" target="_blank"><img src={drip} alt="" /></a> 
         </SwiperSlide>
         <SwiperSlide>
-         <a href="#/" rel="noreferrer" target="_blank"><img src={Ipl} alt="" /></a> 
+         <a href="https://swasthya-serivce.onrender.com/" rel="noreferrer" target="_blank"><img src={swasser} alt="" /></a> 
+        </SwiperSlide>
+        <SwiperSlide>
+         <a href="https://mayur5012.github.io/crypco/" rel="noreferrer" target="_blank"><img src={Crypco} alt="" /></a> 
+        </SwiperSlide>
+        
+        <SwiperSlide>
+         <a href="https://swasthyaprediction.streamlit.app/" rel="noreferrer" target="_blank"><img src={pred} alt="" /></a> 
+        </SwiperSlide>
+        <SwiperSlide>
+         <a href="https://iplwinpred.streamlit.app/" rel="noreferrer" target="_blank"><img src={Ipl} alt="" /></a> 
         </SwiperSlide>
         <SwiperSlide>
           <a href="https://www.figma.com/file/bMbrPgNgPKnFrxFp1lNa1S/Bussy?node-id=4%3A413" rel="noreferrer" target="_blank"><img src={Bussy} alt="" /></a>
         </SwiperSlide>
         <SwiperSlide>
-          <a href="https://mayur5012.github.io/Project-Degree/" rel="noreferrer" target="_blank"><img src={pd} alt="" /></a>
+          <a href="https://projectdegree.onrender.com/" rel="noreferrer" target="_blank"><img src={pd} alt="" /></a>
         </SwiperSlide>
         <SwiperSlide>
           <a href="https://mayur5012.github.io/notty/" rel="noreferrer" target="_blank"><img src={Notty} alt="" /></a>

@@ -21,9 +21,9 @@ function Experience() {
                 500,
                 "MERN and ML Intern At Tecnatox",
                 2000,
-                "Ex Backend Intern At Basil Infotech",
+                "Ex Lead Backend Developer At Basil Infotech",
                 2000,
-                "Designer at GDSC GTBIT",
+                "Ex Designer at GDSC GTBIT",
                 2000,
                 "Ex ML Intern At Internship Studio",
                 2000,
@@ -45,7 +45,7 @@ function Experience() {
 				</div>
 				<div className="flip-card-back">
 					<div className="card-heading">TecnaTox</div>
-					<div className="card-subheading">Role : MERN and FReMP Intern</div>
+					<div className="card-subheading">Role : MERN and ML Intern</div>
 					<div className="card-subheading">Duration : 6 Months</div>
 					<div className="card-description">
 						<p style={{textAlign:"justify"}}>- Created NLP toolkit for evidence gathering of mechanistic
@@ -63,7 +63,7 @@ pathway of toxicity</p>
 				</div>
 				<div className="flip-card-back">
 					<div className="card-heading">Basil Infotech</div>
-					<div className="card-subheading">Role : Backend Intern</div>
+					<div className="card-subheading">Role : Lead Backend Developer</div>
 					<div className="card-subheading">Duration : 3 Months</div>
 					<div className="card-description">
 						<p style={{textAlign:"justify"}}>- Built a payment gateway webapp and developed backend services forthe project.</p>
@@ -83,8 +83,8 @@ user experience in online payments.</p>
 					<div className="card-subheading">Role : Designer</div>
 					<div className="card-subheading">Duration : 9 Months</div>
 					<div className="card-description">
-						<p style={{textAlign:"justify"}}>- Creating designs for development team</p>
-						<p style={{textAlign:"justify"}}>- Designing user friendly interfaces</p>
+						<p style={{textAlign:"justify"}}>- Created designs for development team</p>
+						<p style={{textAlign:"justify"}}>- Designing user friendly interfaces for various projects</p>
 					</div>
 				</div>
 			</div>
@@ -96,7 +96,7 @@ user experience in online payments.</p>
 				</div>
 				<div className="flip-card-back">
 					<div className="card-heading">Internship Studio</div>
-					<div className="card-subheading">Role : ML Training + Internship</div>
+					<div className="card-subheading">Role : ML Intern</div>
 					<div className="card-subheading">Duration : 1.5 Months</div>
 					<div className="card-description">
 						<p>- Youtube
