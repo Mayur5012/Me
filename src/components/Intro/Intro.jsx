@@ -11,7 +11,7 @@ const defOptions={
   reverse: false,
   max:35,
   perspective:1000,
-  scale:1.1,
+  scale:0.8,
   speed:1000,
   transition:true,
   axis:null,
@@ -84,9 +84,9 @@ const size= {
       
       {/* right image side */}
       <div className="i-right">
-      {/* <Tilt options={defOptions} > */}
+      <Tilt options={defOptions} >
         <img style={size} src={me2} alt="" />
-      {/* </Tilt> */}
+      </Tilt>
       </div>
     </div>
   );
