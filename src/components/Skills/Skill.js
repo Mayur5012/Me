@@ -5,7 +5,7 @@ import developer from "../../img/developer.png";
 import programmer from "../../img/programmer.png";
 
 import Typical from "react-typical";
-import Resume from "./Mayuresh Gawali.pdf";
+import Resume from "./Mayuresh Resume.pdf";
 import Cocubes from "./cocubes.pdf";
 const Skill = () => {
   return (
